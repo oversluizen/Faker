@@ -145,7 +145,7 @@ class Person extends \Faker\Provider\Person
         'Oda', 'Oemencs', 'Oennen', 'van den Oever', 'van Oirschot', 'van Olst', 'Olthof', 'Olykan', 'van Ommeren',
         'Ooms', 'van Ooste', 'van Oosten', 'van Oostendorp', 'Oosterhek', 'Oosterhout', 'Oostveen', 'van Ooyen',
         'Opmans', 'van Opper-Lotharingen', 'van Orleans', 'Osterhoudt', 'Otte', 'Otto', 'Oude Heer', 'van Oudewater',
-        'Ouwel', 'Ouwerkerk', 'Overdijk', 'Overeem', 'Oversteeg', 'Paillet', 'Palman', 'van Parijs', 'Pasman',
+        'Ouwel', 'Ouwerkerk', 'Overdijk', 'Overeem', 'Oversluizen', 'Oversteeg', 'Paillet', 'Palman', 'van Parijs', 'Pasman',
         'Passchiers', 'Pastoors', 'de Pauw', 'Pauwels', 'van de Pavert', 'Perck', 'Perkins', 'Peronne', 'Perrono',
         'Persijn', 'Peterse', 'Phillipsen', 'Pierson', 'Pieters', 'Pieters van der Maes', 'Pison', 'de Plantard',
         'van de Plas', 'van der Plas', 'van der Ploeg', 'van der Pluijm', 'Poncelet', 'Ponci', 'Pons', 'van Poppel',
